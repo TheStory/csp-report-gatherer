@@ -6,3 +6,9 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# IDE
+.idea/
+
+# Local stuff
+.env
